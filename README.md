@@ -100,3 +100,8 @@ Test container thấy file chưa:
 
 winpty docker exec -it piper-api sh
 ls -lh /voices
+
+
+<img src="/test/pic/1.jpg">
+<img src="/test/pic/2.jpg">
+<img src="/test/pic/3.png">
